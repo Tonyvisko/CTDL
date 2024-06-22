@@ -1,0 +1,33 @@
+15000,Nguyen Van A,Nam,1
+9970,Tran Van C,Nam,1
+1000,Nguyen Thi F,Nu,0
+20,Tran Thi Z,Nu,0
+1,Nguyen Huu Tai,Nam,0
+9,Pham Thi C,Nu,0
+2,Tran Van A,Nam,0
+5,Nguyen Van B,Nam,0
+3,Pham Thi B,Nu,1
+4,Nguyen Van A,Nam,0
+10,Nguyen Thi A,Nu,0
+25,Tran Thi D,Nu,0
+105,Le Van A,Nam,0
+55,Huynh Cong Thanh,Nam,0
+100,Tran Van Z,Nam,1
+5501,Nguyen Thi A,Nu,1
+1152,Huynh Thi G,Nu,1
+1170,Nguyen Thi D,Nu,1
+2250,Le Thi C,Nu,1
+5000,Huynh Van A,Nam,1
+2721,Nguyen Van Teo,Nam,1
+4154,Huynh Thi H,Nu,1
+3325,T Y,Nam,1
+9999,Phan Cam C,Nu,0
+15005,Pham Ngoc R,Nu,0
+22005,Tran Thi Cam L,Nu,1
+15200,Pham Nguyen Thi K,Nu,1
+22900,Pham Van T,Nam,1
+25000,Phan Thi Cam F,Nu,1
+29999,Nguyen Van D,Nam,1
+27497,Nguyen Thi A,Nu,1
+27706,Huynh Thi Cam B,Nu,1
+27747,Van Minh Tan,Nam,1
